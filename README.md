@@ -35,3 +35,7 @@ DATABASE_URL="postgresql://postgres:CHANGE_PASSWORD@localhost:5432/mydb?schema=p
 # watch mode
 $ npm run start:dev
 ```
+
+## Lookup API by Swagger
+
+Go to /api/ path in order to view the generated docs.
